@@ -1,5 +1,5 @@
 # reddit
-A great reddit projects
+A great reddit project
 
 In this project we are trying to predict whether a topic is going to be popular or not
 
